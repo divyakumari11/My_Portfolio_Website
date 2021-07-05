@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.multiRootWorkspaceName": "Portfolio_webiste"
+}
